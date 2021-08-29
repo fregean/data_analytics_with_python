@@ -13,3 +13,5 @@ Udemy video planning
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## イントロダクション
