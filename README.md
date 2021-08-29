@@ -1,13 +1,15 @@
 # data analytics with python
 Udemy video planning
 
-## Table of Contents
-1. イントロダクション
-2. データクレンジング
-   - データの入手・結合・読込
-   - 欠損値・異常値の処理
-   - データ型の変更
-   - 不要な表記の削除
-   - 表記ゆれの修正
-3. データ分析
-4. レポート作成
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#introduction">イントロダクション</a></li>
+    <li><a href="#datacleansing">データクレンジング</a></li>
+    <li><a href="#dataanalytics">データ分析</a></li>
+    <li><a href="#reportcreation">レポート作成</a></li>
+  </ol>
+</details>
+
